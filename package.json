@@ -1,0 +1,18 @@
+{
+  "name": "ben-dodd-cp02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ben-dodd/ben-dodd-CP02"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Dodd",
+  "license": "ISC",
+  "dependencies": {
+    "bleetify": "^1.0.2"
+  }
+}
